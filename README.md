@@ -2,6 +2,8 @@
 
 Client segmentation and investment behavior analysis for a real estate platform, built as part of a Unified Mentor data analyst internship project (in collaboration with Parcl Co. Limited).
 
+**Live Dashboard:** [deepchovatiya-real-estate-analytics.streamlit.app](https://deepchovatiya-real-estate-analytics.streamlit.app)
+
 ## Project Overview
 
 This project applies K-Means and Hierarchical clustering to segment 2,000 real estate clients based on demographic and behavioral attributes, then tests whether those segments correspond to distinct investment behavior using a linked dataset of 10,000 property listings.
